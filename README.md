@@ -1,13 +1,13 @@
-# 🎮 GameCatalog
+# GameCatalog
 
 Aplikasi mobile katalog video game berbasis Android yang mengambil data secara dinamis dari REST API [RAWG](https://rawg.io/apidocs). Pengguna dapat menelusuri daftar game populer, mencari game berdasarkan nama, serta melihat detail lengkap setiap game.
 
 ---
 
-## 🎥 Demo Aplikasi
+## Demo Aplikasi
 ![Demo Aplikasi](ScreenRecord/DemoWeb.gif)
 
-## 📸 Screenshots
+## Screenshots
 
 ### Home Screen
 | Light Mode | Dark Mode |
@@ -26,7 +26,7 @@ Aplikasi mobile katalog video game berbasis Android yang mengambil data secara d
 
 ---
 
-## 🛠️ Penjelasan Teknis
+## Penjelasan Teknis
 
 ### 1. Bahasa Pemrograman — Kotlin
 
