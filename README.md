@@ -5,24 +5,24 @@ Aplikasi mobile katalog video game berbasis Android yang mengambil data secara d
 ---
 
 ## Demo Aplikasi
-![Demo Aplikasi](ScreenRecord/DemoWeb.gif)
+![Demo Aplikasi](ScreenRecord/DemoWeb.gif?v=2)
 
 ## Screenshots
 
 ### Home Screen
 | Light Mode | Dark Mode |
 |:---:|:---:|
-| ![Home Light](Screenshots/HomeScreen_LightMode.jpg) | ![Home Dark](Screenshots/HomeScreen_DarkMode.jpg) |
+| ![Home Light](Screenshots/HomeScreen_LightMode.jpg?v=2) | ![Home Dark](Screenshots/HomeScreen_DarkMode.jpg?v=2) |
 
 ### Search
 | Light Mode | Dark Mode |
 |:---:|:---:|
-| ![Search Light](Screenshots/Search_LightMode.jpg) | ![Search Dark](Screenshots/Search_DarkMode.jpg) |
+| ![Search Light](Screenshots/Search_LightMode.jpg?v=2) | ![Search Dark](Screenshots/Search_DarkMode.jpg?v=2) |
 
 ### Game Detail Screen
 | Light Mode | Dark Mode |
 |:---:|:---:|
-| ![Detail Light](Screenshots/DetailGame_LightMode.jpg) | ![Detail Dark](Screenshots/DetailGame_DarkMode.jpg) |
+| ![Detail Light](Screenshots/DetailGame_LightMode.jpg?v=2) | ![Detail Dark](Screenshots/DetailGame_DarkMode.jpg?v=2) |
 
 ---
 
